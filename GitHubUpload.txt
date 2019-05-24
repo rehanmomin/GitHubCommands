@@ -1,0 +1,20 @@
+Basic steps : 
+1. Create repo
+2. init
+3. connect to repo
+4. add files to staging area
+5. commit stage files to repo
+6. push changes to repository
+
+Detailed Steps :
+1. Create repository on GitHub
+2. Create project/Local folder in your local machine.
+3. Traverse to local folder in CMD using cd command
+4. Initilize git using git init
+5. Connect to GitHub remote Repository using (git remote add origin https://github.com/rehanmomin/test.git)
+6. Check status using git Status
+7. Add files to staging area using git add . or git add -A
+8. Commit stage files to repository using (git commit -m "Comments")
+9. push changes to remote repository using (git push -u origin master)
+
+
